@@ -64,3 +64,4 @@ The API checks the time difference between the last support ticket and the curre
 - Run the application with `npm start`.
 
 The server will be running on http://localhost:3000 by default.
+You can make a POST request to live website in this url: https://dune-cooked-hoverfly.glitch.me/support/create_ticket
